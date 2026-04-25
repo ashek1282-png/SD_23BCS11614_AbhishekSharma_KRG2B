@@ -1,0 +1,125 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/29.6.1 Chrome/142.0.7444.265 Electron/39.8.0 Safari/537.36" version="29.6.1">
+  <diagram name="Page-1" id="Somhlx6i3JiKQ9F5L9i1">
+    <mxGraphModel dx="1281" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="G86pkJ9Fl34YANioCHnN-5" edge="1" parent="1" source="G86pkJ9Fl34YANioCHnN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-2" parent="1" style="shape=actor;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="40" x="60" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Users" vertex="1">
+          <mxGeometry height="30" width="60" x="50" y="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-8" edge="1" parent="1" source="G86pkJ9Fl34YANioCHnN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-16" edge="1" parent="1" source="G86pkJ9Fl34YANioCHnN-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="1230" />
+            </Array>
+            <mxPoint x="360" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-21" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="260" y="1160" />
+              <mxPoint x="260" y="1450" />
+            </Array>
+            <mxPoint x="260" y="1240" as="sourcePoint" />
+            <mxPoint x="340" y="1450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-25" edge="1" parent="1" source="G86pkJ9Fl34YANioCHnN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-4" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.vpc_nat_gateway;fillColor=#F58536;gradientColor=none;" value="" vertex="1">
+          <mxGeometry height="72" width="69" x="161" y="1128" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="API gateway" vertex="1">
+          <mxGeometry height="30" width="60" x="170" y="1210" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-18" edge="1" parent="1" source="G86pkJ9Fl34YANioCHnN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-9" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Multi_Factor_Authentication.svg;" value="" vertex="1">
+          <mxGeometry height="68" width="68" x="230" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;Functional Requirements:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Authentication:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;1. User is able to Register/Login.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Authorization:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;After Successful Registration, Users are authorize to following things:&lt;/div&gt;&lt;div&gt;User is able to Create/Delete Posts.&lt;/div&gt;&lt;div&gt;Users are able to follow each other.&lt;/div&gt;&lt;div&gt;Users are able to like comment each other.&lt;/div&gt;&lt;div&gt;Users are able to view Feed.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="590" x="50" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;div&gt;&lt;b&gt;Non Functional Requirements:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;1. Availability &amp;gt;&amp;gt;&amp;gt; Consistency&lt;/b&gt;&lt;/div&gt;&lt;div&gt;As there are 500M-700M DAU&lt;/div&gt;&lt;div&gt;We need to keep our social media up with negligible downtime.&lt;/div&gt;&lt;div&gt;We can afford delay in like/comment/post/delete/feed to maintain consistency. But since we have to keep our application smoother a much higher latency is also unavoidable.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;2. Latency/Throughput&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Services provided by the social media application have to generate response in 30-50 ms.&lt;/div&gt;&lt;div&gt;As, Latency and throughput are inversely proportional, lower the latency more the throughput means more requests should be handle.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;3. Scalability:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Server scaling should be done appropriately for any event like A country winning a world cup multiple users are active at that particular period of time. So managing servers or make their replications is essential using a proper sharding technique..&lt;/div&gt;" vertex="1">
+          <mxGeometry height="320" width="590" x="50" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="API Endpoints:&lt;br&gt;&lt;br&gt;&lt;br&gt;REGISTER&lt;br&gt;POST/api/REGISTER/users/new_user&lt;br&gt;&lt;br&gt;&lt;br&gt;LOGIN&lt;br&gt;GET/api/REGISTER/users/{user_id}&lt;br&gt;&lt;br&gt;&lt;br&gt;Create Post&lt;br&gt;GET/api/Posts/user/{user_id}/{post_id}&lt;br&gt;POST/api/Posts/Create_post/users/new_post&lt;br&gt;&lt;br&gt;&lt;br&gt;Like/Comment&lt;br&gt;GET/api/Like_comment/user/{user_id}/{post_id}&lt;br&gt;POST/api/Like_comment/users/{user_id}/{post_id}&lt;br&gt;&lt;br&gt;&lt;br&gt;Follow&lt;br&gt;GET/api/Following/user/{user_id}? user_id=follow&lt;br&gt;POST/api/Follow/users/{user_id}? user_id=follow&lt;br&gt;&lt;br&gt;&lt;br&gt;Feed&lt;br&gt;Get/api/feed/users/{user_id}? user_id=feed" vertex="1">
+          <mxGeometry height="380" width="580" x="50" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="user register/login through authentication" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="JWT token generate" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-17" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Arc_PostgreSQL.svg;" value="" vertex="1">
+          <mxGeometry height="68" width="65.08" x="500" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="User information fetch" vertex="1">
+          <mxGeometry height="30" width="60" x="340" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="After successful login&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="360" y="1018" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-22" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/infrastructure/event_feed.svg;" value="" vertex="1">
+          <mxGeometry height="60" width="60" x="370" y="1134" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-23" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.mongodb;" value="" vertex="1">
+          <mxGeometry height="47.400000000000006" width="47.400000000000006" x="660" y="1130" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Mongo db&amp;nbsp;" vertex="1">
+          <mxGeometry height="30" width="60" x="650" y="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-27" edge="1" parent="1" source="G86pkJ9Fl34YANioCHnN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="1345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-26" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/pda.svg;" value="" vertex="1">
+          <mxGeometry height="50" width="27" x="313" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Feed" vertex="1">
+          <mxGeometry height="30" width="60" x="370" y="1220" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-29" edge="1" parent="1" source="G86pkJ9Fl34YANioCHnN-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.232;entryY=0.616;entryDx=0;entryDy=0;entryPerimeter=0;" target="G86pkJ9Fl34YANioCHnN-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-30" edge="1" parent="1" source="G86pkJ9Fl34YANioCHnN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" target="G86pkJ9Fl34YANioCHnN-31" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="295" y="1164" />
+            </Array>
+            <mxPoint x="230" y="1164" as="sourcePoint" />
+            <mxPoint x="360" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-31" parent="1" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.kafka;" value="" vertex="1">
+          <mxGeometry height="42" width="56.699999999999996" x="269.65" y="1193" as="geometry" />
+        </mxCell>
+        <mxCell id="G86pkJ9Fl34YANioCHnN-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Kafka used for pre feed generation" vertex="1">
+          <mxGeometry height="30" width="60" x="280" y="1230" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
